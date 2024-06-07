@@ -16,7 +16,9 @@ Welcome to GAAC Hub, the ultimate task management application designed specifica
 
 To get started with GAAC Hub, follow these simple steps:
 
-1. **Clone the Repository**:
+1. **Fork the Repository**
+
+2. **Clone your Repository**:
    ```bash
    git clone https://github.com/yourusername/GAAC-Hub.git
    ```
