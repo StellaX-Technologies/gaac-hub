@@ -33,7 +33,7 @@ To get started with GAAC Hub, follow these simple steps:
 3. **Run the Application**:
    Start the application locally.
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Contribution
