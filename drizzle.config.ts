@@ -8,7 +8,7 @@ if(!process.env.DATABASE_URL){
 }
 
 export default {
-    dialect: "postgresql"
+    dialect: "postgresql",
     schema: '.src/lib/supabase/schema.ts',
     out: './migrations',
     driver: 'pg',
