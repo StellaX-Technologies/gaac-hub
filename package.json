@@ -6,19 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "push": "drizzle-kit push",
-    "pull": "drizzle-kit introspect",
-    "generate": "drizzle-kit generate",
-    "drop": "drizzle-kit drop",
-    "check": "drizzle-kit check",
-    "up": "drizzle-kit up"
+    "lint": "next lint"
   },
   "dependencies": {
-    "dotenv": "^16.4.5",
-    "drizzle-orm": "^0.31.2",
     "next": "14.2.3",
-    "postgres": "^3.4.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
@@ -26,7 +17,6 @@
     "@types/node": "^20.14.2",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
-    "drizzle-kit": "^0.22.6",
     "eslint": "^8.57.0",
     "eslint-config-next": "14.2.3",
     "postcss": "^8.4.38",
