@@ -2,6 +2,8 @@
 
 Welcome to GAAC Hub, the ultimate task management application designed specifically for the GITAM Aero Astro Club. GAAC Hub is an open-source project aimed at streamlining the planning, organizing, and tracking of tasks and projects within our club.
 
+Figma design file: https://www.figma.com/design/BCTn8sRdq1YhRZ6si7sAiT/GAAC-Hub?node-id=0-1&t=BvJ2San5lipdNSEU-1
+
 ## Features
 
 - **Task Management**: Create, assign, and manage tasks efficiently.
